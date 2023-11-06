@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tema1.dokuzyazilim.com	TRUE	/	FALSE	1999999999	r	aHR0cDovL3RlbWExLmRva3V6eWF6aWxpbS5jb20vaW5kZXgucGhwP3A9UHJvZHVjdHMmY3RnX2lkPTI1OTAmcHViX2lkPTAmd3J0X2lkPTAmbW9kX2Rpc2NvdW50PTAmbW9kX2NhcmdvX2ZyZWU9MCZtb2RfaWQ9NjgmbW9kX3ByZF9zZXQ9JnNvcnRfdHlwZT1wcmRfaWQtZGVzYyZwcmRfc2VsbD0mcHJkX3N0b2NrPSZwYWdlPTI%3D
+tema1.dokuzyazilim.com	TRUE	/	FALSE	1999999999	PHPSESSID	5a6110ced2a41a7556f0e231a897e725
+tema1.dokuzyazilim.com	TRUE	/	FALSE	1999999999	SameSite	None
+
